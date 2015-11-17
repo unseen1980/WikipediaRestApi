@@ -1,0 +1,21 @@
+{
+  "name": "Christos",
+  "version": "0.0.1",
+  "description": "Simple rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Christos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.13.3",
+    "body-parser": "~1.14.1",
+    "requestify": "~0.1.17",
+    "request": "~2.65.0"
+  }
+}
