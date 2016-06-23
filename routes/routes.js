@@ -1,6 +1,6 @@
 var request = require('request'),
-  Rx = require('rx'),
-  appRouter = function (app) {
+  Rx = require('rx');
+  module.exports = function (app) {
     app.get("/", function (req, res) {
       if (!req.query.wiki) {
         return res.send({
@@ -36,4 +36,4 @@ var request = require('request'),
     });
   }
 
-module.exports = appRouter;
+ 
