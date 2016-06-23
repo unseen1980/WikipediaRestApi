@@ -1,7 +1,7 @@
 {
-  "name": "Christos",
-  "version": "0.0.1",
-  "description": "Simple rest api",
+  "name": "WikipediaRequest",
+  "version": "0.1.0",
+  "description": "Request wikipedia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,14 @@
     "rest",
     "api"
   ],
-  "author": "Christos",
+  "author": "Unseen1980",
   "license": "ISC",
   "dependencies": {
     "body-parser": "~1.14.1",
     "express": "~4.13.3",
     "request": "~2.65.0",
     "requestify": "~0.1.17",
+    "rx": "^4.1.0",
     "rxjs": "^5.0.0-beta.9"
   }
 }
