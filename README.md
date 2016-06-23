@@ -1,4 +1,4 @@
-# WikipediaRestApi
+# Wikipedia Request
 
 ![alt tag](https://raw.githubusercontent.com/unseen1980/WikipediaRestApi/master/NodeJS%20_RxJS.PNG)
 
