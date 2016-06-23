@@ -8,7 +8,7 @@
 2)node index.js
 
 #Usage
-1)in your favorite rest client(eg. postman) make a get request to http://localhost:2525?wiki={SEARCH_TERM}
+1)In your favorite rest client(eg. postman) make a get request to http://localhost:2525?wiki={SEARCH_TERM}
 
 2)Replace SEARCH_TERM. 
 
