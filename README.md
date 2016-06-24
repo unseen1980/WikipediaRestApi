@@ -14,3 +14,6 @@
 
 3)Response is Wikipedia's first paragraph.
 
+## License
+
+The content of this project is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
